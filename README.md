@@ -1,6 +1,6 @@
 # iterviewbit--math--next-smallest-palindrome
 
------> Question:
+**-----> Question:**
 
 Given a numeric string A representing a large number you need to find the next smallest palindrome greater than this number.
 
@@ -42,7 +42,8 @@ Output 2:
  
  
  
- ------>code:
+**------>code:**
+
  string Solution::solve(string s) {
     
     	int n=s.length(),a=0;
